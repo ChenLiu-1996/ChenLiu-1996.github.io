@@ -12,14 +12,14 @@ I am generally over-booked on projects, but feel free to reach out for collabora
 
 ## Blogs
 
-:heavy_check_mark: <a href="https://chenliu-1996.github.io/blogs/Explain_DragGAN.pdf" target="_blank">How DragGAN Works: A Technical Deep Dive</a>
+- <a href="https://chenliu-1996.github.io/blogs/Explain_DragGAN.pdf" target="_blank">How DragGAN Works: A Technical Deep Dive</a>
 
 ## Recent repositories
-:heavy_check_mark: [An on-the-fly evaluator for GANs, with a simple working example of DCGAN on SVHN](https://github.com/ChenLiu-1996/GAN-evaluator)
+- [An on-the-fly evaluator for GANs, with a simple working example of DCGAN on SVHN](https://github.com/ChenLiu-1996/GAN-evaluator)
 
-:heavy_check_mark: [An unsupervised medical image segmentation framework](https://github.com/ChenLiu-1996/UnsupervisedMedicalSeg)
+- [An unsupervised medical image segmentation framework](https://github.com/ChenLiu-1996/UnsupervisedMedicalSeg)
 
-:heavy_check_mark: [A guide to simulate bigger batch sizes beyond GPU capability](https://github.com/ChenLiu-1996/SimulateBiggerBatchSize)
+- [A guide to simulate bigger batch sizes beyond GPU capability](https://github.com/ChenLiu-1996/SimulateBiggerBatchSize)
 
 
 ## Contact information
