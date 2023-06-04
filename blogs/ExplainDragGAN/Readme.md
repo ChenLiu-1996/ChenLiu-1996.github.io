@@ -3,6 +3,9 @@
 ### Overview
 This is a technical blog post that digs into the technical details of DragGAN --- specifically, its methods section.
 
+### Full Blog Page
+Please find the blog page, compiled in format of a paper, [here](https://chenliu-1996.github.io/blogs/ExplainDragGAN/main.pdf).
+
 ### Sample Illustrations
 <img src="https://ChenLiu-1996.github.io/blogs/ExplainDragGAN/assets/fig1.png" width="600">
 
