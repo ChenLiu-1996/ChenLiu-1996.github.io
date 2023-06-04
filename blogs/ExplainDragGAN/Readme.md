@@ -3,11 +3,11 @@
 ### Overview
 This is a technical blog post that digs into the technical details of DragGAN --- specifically, its methods section.
 
-![Figure 1 in our blog](https://ChenLiu-1996.github.io/blogs/ExplainDragGAN/assets/fig1.png)
+<img src="https://ChenLiu-1996.github.io/blogs/ExplainDragGAN/assets/fig1.png" width="600">
 
-![Figure 1 in our blog](https://ChenLiu-1996.github.io/blogs/ExplainDragGAN/assets/fig3.png)
+<img src="https://ChenLiu-1996.github.io/blogs/ExplainDragGAN/assets/fig3.png" width="600">
 
-![Figure 1 in our blog](https://ChenLiu-1996.github.io/blogs/ExplainDragGAN/assets/fig5.png)
+<img src="https://ChenLiu-1996.github.io/blogs/ExplainDragGAN/assets/fig5.png" width="600">
 
 
 ### Citation
