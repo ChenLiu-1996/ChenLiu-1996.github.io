@@ -1,7 +1,8 @@
-# Chen Liu's Technical Blogs
+# How DragGAN Works: A Technical Deep Dive
+Chen Liu
 
-## How DragGAN Works: A Technical Deep Dive
-
+### Overview
+This is a technical blog post that digs into the technical details of DragGAN --- specifically, its methods section.
 
 ### Citation
 If you find this Technical Blog useful in your research or wish to refer to it, please use the following BibTeX entry.
@@ -9,7 +10,7 @@ If you find this Technical Blog useful in your research or wish to refer to it, 
 @misc{chen2023HowDragGANWorks,
   author =       {Liu, Chen},
   title =        {How DragGAN Works: A Technical Deep Dive},
-  howpublished = {\url{https://chenliu-1996.github.io/blogs/Explain_DragGAN/main.pdf}},
+  howpublished = {\url{https://chenliu-1996.github.io/blogs/ExplainDragGAN/main.pdf}},
   year =         {2023}
 }
 ```
