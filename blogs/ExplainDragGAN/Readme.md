@@ -1,8 +1,14 @@
 # How DragGAN Works: A Technical Deep Dive
-Chen Liu
 
 ### Overview
 This is a technical blog post that digs into the technical details of DragGAN --- specifically, its methods section.
+
+![Figure 1 in our blog](https://ChenLiu-1996.github.io/blogs/ExplainDragGAN/assets/fig1.png)
+
+![Figure 1 in our blog](https://ChenLiu-1996.github.io/blogs/ExplainDragGAN/assets/fig3.png)
+
+![Figure 1 in our blog](https://ChenLiu-1996.github.io/blogs/ExplainDragGAN/assets/fig5.png)
+
 
 ### Citation
 If you find this Technical Blog useful in your research or wish to refer to it, please use the following BibTeX entry.
