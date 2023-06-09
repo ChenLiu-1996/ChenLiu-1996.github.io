@@ -15,6 +15,15 @@ Please find the blog page, compiled in format of a paper, [here](https://chenliu
 
 
 ### Citation
+If you wish to cite the DragGAN paper, here is the BibTeX entry.
+```
+@inproceedings{pan2023draggan,
+    title={Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold}, 
+    author={Pan, Xingang and Tewari, Ayush, and Leimk{\"u}hler, Thomas and Liu, Lingjie and Meka, Abhimitra and Theobalt, Christian},
+    booktitle = {ACM SIGGRAPH 2023 Conference Proceedings},
+    year={2023}
+}
+```
 If you find this Technical Blog useful in your research or wish to refer to it, please use the following BibTeX entry.
 ```
 @misc{chen2023HowDragGANWorks,
