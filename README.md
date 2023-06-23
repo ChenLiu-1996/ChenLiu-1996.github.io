@@ -6,25 +6,4 @@
 
 Hi, I am Chen Liu, a PhD student in Computer Science at Yale University.
 
-I work on machine learning in healthcare. Lately I am diving into understanding the neural network manifold.
-
-I am generally over-booked on projects, but feel free to reach out for collaboration.
-
-## Technical Blogs
-
-- <a href="https://chenliu-1996.github.io/blogs/ExplainDragGAN/main.pdf" target="_blank">How DragGAN Works: A Technical Deep Dive</a>
-  - [Blog Site](https://chenliu-1996.github.io/blogs/ExplainDragGAN)
-  - [PDF](https://chenliu-1996.github.io/blogs/ExplainDragGAN/main.pdf)
-
-## Recent repositories
-- [An on-the-fly evaluator for GANs, with a simple working example of DCGAN on SVHN](https://github.com/ChenLiu-1996/GAN-evaluator)
-
-- [An unsupervised medical image segmentation framework](https://github.com/ChenLiu-1996/UnsupervisedMedicalSeg)
-
-- [A guide to simulate bigger batch sizes beyond GPU capability](https://github.com/ChenLiu-1996/SimulateBiggerBatchSize)
-
-
-## Contact information
-- [Personal Website](https://www.chenliu1996.com)
-- [LinkedIn](https://www.linkedin.com/in/chenliu1996/)
-- [Lab Website](https://krishnaswamylab.org/members)
+[Click to enter my Github main page](https://github.com/chenLiu-1996/)
