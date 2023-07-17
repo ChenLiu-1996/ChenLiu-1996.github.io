@@ -1,4 +1,4 @@
-# How DragGAN Works: A Technical Deep Dive
+# A Technical Deep Dive into Drag Your GAN (DragGAN)
 
 ### Overview
 This is a technical blog post that digs into the technical details of DragGAN (Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold). Specifically, we are explaining its methods section.
