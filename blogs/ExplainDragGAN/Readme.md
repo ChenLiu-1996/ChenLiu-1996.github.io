@@ -28,7 +28,7 @@ If you find this Technical Blog useful in your research or wish to refer to it, 
 ```
 @misc{chen2023HowDragGANWorks,
   author =       {Liu, Chen},
-  title =        {How DragGAN Works: A Technical Deep Dive},
+  title =        {A Technical Deep Dive into Drag Your GAN (DragGAN)},
   howpublished = {\url{https://chenliu-1996.github.io/blogs/ExplainDragGAN/main.pdf}},
   year =         {2023}
 }
