@@ -1,4 +1,4 @@
-# Cell Segmentation Benchmark
+# Cell Segmentation Benchmark: Progress Report
 
 ### Overview
 This is my final project for the course CPSC 437/539 Intro to Database Systems in Fall 2023.
