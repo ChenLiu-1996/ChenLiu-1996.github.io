@@ -7,6 +7,6 @@ Hi, I am Chen Liu, a PhD student in Computer Science at Yale University.
 
 
 ## Navigation
-
-- [Technical Blogs](https://chenliu-1996.github.io/blogs/)
-- [Course Projects](https://chenliu-1996.github.io/course_projects/)
+- Front Page
+  - [Technical Blogs](https://chenliu-1996.github.io/blogs/)
+  - [Course Projects](https://chenliu-1996.github.io/course_projects/)
