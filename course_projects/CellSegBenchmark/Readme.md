@@ -34,4 +34,4 @@ If you find this final report useful in your research or wish to refer to it, pl
 - Front page
   - Technical Blogs
   - [Course Projects](https://chenliu-1996.github.io/course_projects/)
-    - Cell Segmentation Benchmark ([PDF](https://chenliu-1996.github.io/course_projects/CellSegBenchmark/main.pdf))
+    - Cell Segmentation Benchmark
