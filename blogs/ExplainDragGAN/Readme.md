@@ -38,5 +38,5 @@ If you find this Technical Blog useful in your research or wish to refer to it, 
 
 - Front page
   - [Technical Blogs](https://chenliu-1996.github.io/blogs/)
-    - Explain DragGAN ([PDF](https://chenliu-1996.github.io/blogs/ExplainDragGAN/main.pdf))
+    - Explain DragGAN
   - Course Projects
