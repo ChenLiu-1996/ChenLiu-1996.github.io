@@ -1,9 +1,15 @@
-# Contents
+# Welcome
 
 Hi, I am Chen Liu, a PhD student in Computer Science at Yale University.
 
 - [My Github main page](https://github.com/chenLiu-1996/)
 - [My Resume (Oct 2023)](https://chenliu-1996.github.io/CV/ChenLiu_resume.pdf)
+
+## Main contents
+
+:heavy_check_mark: (Technical Blog) <a href="https://chenliu-1996.github.io/blogs/ExplainDragGAN/main.pdf" target="_blank">A Technical Deep Dive into Drag Your GAN (DragGAN)</a>
+
+:heavy_check_mark: (Course Project, _Introduction to Database Systems_) <a href="https://chenliu-1996.github.io/course_projects/CellSegBenchmark/main.pdf" target="_blank">Cell Segmentation Benchmark: Progress Report</a>
 
 
 ## Navigation
