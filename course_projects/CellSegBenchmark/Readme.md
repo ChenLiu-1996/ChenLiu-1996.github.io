@@ -1,5 +1,7 @@
 # Cell Segmentation Benchmark: Progress Report
 
+<link rel="canonical" href="https://chenliu-1996.github.io/course_projects/CellSegBenchmark/main.pdf" />
+
 ### Overview
 This is my final project for the course CPSC 437/539 Intro to Database Systems in Fall 2023.
 
