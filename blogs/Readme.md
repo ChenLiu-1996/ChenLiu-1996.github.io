@@ -3,4 +3,4 @@
 - [Front page](https://chenliu-1996.github.io/)
   - Technical Blogs
     - [Explain DragGAN](https://chenliu-1996.github.io/blogs/ExplainDragGAN/)
-  - [Course Projects](https://chenliu-1996.github.io/course_projects/)
+  - [Course Projects](https://chenliu-1996.github.io/projects/)
