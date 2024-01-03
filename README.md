@@ -9,7 +9,8 @@ Hi, I am Chen Liu, a PhD student in Computer Science at Yale University.
 
 (Technical Blog) <a href="https://chenliu-1996.github.io/blogs/ExplainDragGAN/main.pdf" target="_blank">A Technical Deep Dive into Drag Your GAN (DragGAN)</a>
 
-(Course Project, _Introduction to Database Systems_) <a href="https://chenliu-1996.github.io/course_projects/CellSegBenchmark/main.pdf" target="_blank">Cell Segmentation Benchmark: Progress Report</a>
+(Course Project, _Introduction to Database Systems_) <a href="https://chenliu-1996.github.io/course_projects/CellSegBenchmark/main.pdf" target="_blank">Towards a Large-Scale Unbiased Machine Learning
+Benchmark for Cell Instance Segmentation: Final Report for CPSC 537 Intro to Database Systems</a>
 
 
 ## Navigation
