@@ -1,4 +1,4 @@
-# Cell Segmentation Benchmark: Progress Report
+# Towards a Large-Scale Unbiased Machine Learning Benchmark for Cell Instance Segmentation: Final Report for CPSC 537 Intro to Database Systems
 
 ### Overview
 This is my final project for the course CPSC 437/539 Intro to Database Systems in Fall 2023.
