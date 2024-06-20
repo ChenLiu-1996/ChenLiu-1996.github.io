@@ -1,5 +1,3 @@
-# Welcome
-
 Hi, I am Chen Liu, a PhD student in Computer Science at Yale University.
 
 - [My Github main page](https://github.com/chenLiu-1996/)
