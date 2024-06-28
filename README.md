@@ -16,4 +16,4 @@ Benchmark for Cell Instance Segmentation: Final Report for CPSC 537 Intro to Dat
 - Front Page
   - [Technical Blogs](https://chenliu-1996.github.io/blogs/)
   - [Projects](https://chenliu-1996.github.io/projects/)
-  - [Latest Works](https://chenliu-1996.github.io/publications/)
+  - [Recent Works](https://chenliu-1996.github.io/publications/)
