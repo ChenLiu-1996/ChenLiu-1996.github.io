@@ -9,7 +9,7 @@ The PDF of the supplementary materials is [here]((https://chenliu-1996.github.io
 
 
 ### Citation
-If you find this final report useful in your research or wish to refer to it, please use the following BibTeX entry.
+If you find this project useful or wish to refer to it, please use the following BibTeX entry.
 ```
 @article{ImageFlowNet,
   title={ImageFlowNet: Forecasting Multiscale Trajectories of Disease Progression with Irregularly-Sampled Longitudinal Medical Images},
