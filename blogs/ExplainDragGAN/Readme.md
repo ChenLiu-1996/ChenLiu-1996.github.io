@@ -18,7 +18,7 @@ Please find the blog page, compiled in format of a paper, [here](https://chenliu
 If you wish to cite the DragGAN paper, here is the BibTeX entry.
 ```
 @inproceedings{pan2023draggan,
-    title={Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold}, 
+    title={Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold},
     author={Pan, Xingang and Tewari, Ayush, and Leimk{\"u}hler, Thomas and Liu, Lingjie and Meka, Abhimitra and Theobalt, Christian},
     booktitle = {ACM SIGGRAPH 2023 Conference Proceedings},
     year={2023}
@@ -36,7 +36,14 @@ If you find this Technical Blog useful in your research or wish to refer to it, 
 
 ## Navigation
 
-- Front page
-  - [Technical Blogs](https://chenliu-1996.github.io/blogs/)
-    - Explain DragGAN
-  - Course Projects
+[Front page](https://chenliu-1996.github.io/)
+  |
+  ├─── [Technical Blogs](https://chenliu-1996.github.io/blogs/)
+  |    |
+  |    └─── [Explain DragGAN](https://chenliu-1996.github.io/blogs/ExplainDragGAN/)
+  |
+  └─── [Projects](https://chenliu-1996.github.io/projects/)
+       |
+       ├─── [Cell Segmentation Benchmark](https://chenliu-1996.github.io/projects/CellSegBenchmark/)
+       |
+       └─── [ImageFlowNet](https://chenliu-1996.github.io/projects/ImageFlowNet/)
