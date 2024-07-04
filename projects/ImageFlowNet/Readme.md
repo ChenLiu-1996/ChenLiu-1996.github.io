@@ -5,7 +5,7 @@ The purpose of this webpage is primarily to host the supplementary materials for
 
 The PDF of the full paper is [here](https://arxiv.org/pdf/2406.14794).
 
-The PDF of the supplementary materials is [here]((https://chenliu-1996.github.io/projects/ImageFlowNet/supp.pdf)).
+The PDF of the supplementary materials is [here](https://chenliu-1996.github.io/projects/ImageFlowNet/supp.pdf).
 
 
 ### Citation
