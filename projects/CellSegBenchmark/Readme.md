@@ -34,4 +34,5 @@ If you find this final report useful in your research or wish to refer to it, pl
 - Front page
   - Technical Blogs
   - [Projects](https://chenliu-1996.github.io/projects/)
-    - Cell Segmentation Benchmark
+    - [Cell Segmentation Benchmark](https://chenliu-1996.github.io/projects/CellSegBenchmark/)
+    - [ImageFlowNet](https://chenliu-1996.github.io/projects/ImageFlowNet/)
