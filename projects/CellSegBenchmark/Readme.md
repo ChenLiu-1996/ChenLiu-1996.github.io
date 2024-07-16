@@ -21,11 +21,10 @@ Our objective is to develop a comprehensive quantitative benchmark designed to i
 ### Citation
 If you find this final report useful in your research or wish to refer to it, please use the following BibTeX entry.
 ```
-@misc{CellSegBenchmark,
-  author =       {Liu, Chen and Liao, Danqi and Wang, Shuangge},
-  title =        {Towards a Large-Scale Unbiased Machine Learning Benchmark for Cell Instance Segmentation: Final Report for CPSC 537 Intro to Database Systems},
-  howpublished = {\url{https://chenliu-1996.github.io/projects/CellSegBenchmark/main.pdf}},
-  year =         {2023}
+@article{liu2023_cellseg_benchmark,
+  title={Towards a Large-Scale Unbiased Machine Learning Benchmark for Cell Instance Segmentation: Final Report for CPSC 537 Intro to Database Systems},
+  author={Liu, Chen and Liao, Danqi and Wang, Shuangge},
+  year={2023}
 }
 ```
 
