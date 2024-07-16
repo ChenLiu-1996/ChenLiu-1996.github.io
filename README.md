@@ -26,4 +26,4 @@ Hi, I am Chen Liu, a PhD student in Computer Science at Yale University.
     - [Explain DragGAN](https://chenliu-1996.github.io/blogs/ExplainDragGAN/)
   - [Projects](https://chenliu-1996.github.io/projects/)
     - [Cell Segmentation Benchmark](https://chenliu-1996.github.io/projects/CellSegBenchmark/)
-    - [ImageFlowNet](https://chenliu-1996.github.io/projects/ImageFlowNet/)
+
