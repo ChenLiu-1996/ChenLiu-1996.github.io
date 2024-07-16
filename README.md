@@ -14,7 +14,7 @@ Hi, I am Chen Liu, a PhD student in Computer Science at Yale University.
 
 # Recent publications
 
-1. ImageFlowNet, Under Review [[ArXiv]](https://arxiv.org/abs/2406.14794) [[PDF]](https://arxiv.org/pdf/2406.14794) [[Supplementary Materials]](https://chenliu-1996.github.io/projects/ImageFlowNet/supp.pdf)
+1. ImageFlowNet, Under Review [[ArXiv]](https://arxiv.org/abs/2406.14794) [[PDF]](https://arxiv.org/pdf/2406.14794)
 2. CUTS, MICCAI 2024 [[ArXiv]](https://arxiv.org/abs/2209.11359) [[PDF]](https://arxiv.org/pdf/2209.11359)
 3. Diffusion Spectral Entropy, ICMLW 2023 [[ArXiv]](https://arxiv.org/abs/2312.04823) [[PDF]](https://arxiv.org/pdf/2312.04823)
 
