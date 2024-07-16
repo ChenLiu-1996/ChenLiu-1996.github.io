@@ -4,7 +4,7 @@
 This is a technical blog post that digs into the technical details of DragGAN (Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold). Specifically, we are explaining its methods section.
 
 ### Full Blog Page
-Please find the blog page, compiled in format of a paper, [here](https://chenliu-1996.github.io/blogs/ExplainDragGAN/main.pdf).
+Please find the blog page, compiled in format of a paper, [here](https://www.chenliu1996.com/publication/2023_explain_draggan/main.pdf).
 
 ### Sample Illustrations
 <img src="https://ChenLiu-1996.github.io/blogs/ExplainDragGAN/assets/fig1.png" width="600">
@@ -26,11 +26,10 @@ If you wish to cite the DragGAN paper, here is the BibTeX entry.
 ```
 If you find this Technical Blog useful in your research or wish to refer to it, please use the following BibTeX entry.
 ```
-@misc{chen2023HowDragGANWorks,
-  author =       {Liu, Chen},
-  title =        {A Technical Deep Dive into Drag Your GAN (DragGAN)},
-  howpublished = {\url{https://chenliu-1996.github.io/blogs/ExplainDragGAN/main.pdf}},
-  year =         {2023}
+@article{liu2023_explain_draggan,
+  title={A Technical Deep Dive into Drag Your GAN (DragGAN)},
+  author={Liu, Chen},
+  year={2023}
 }
 ```
 
