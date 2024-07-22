@@ -1,6 +1,6 @@
 Hi, I am Chen Liu, a PhD student in Computer Science at Yale University.
 
-- [My personal website](https://chenliu1996.com/)
+- [My personal website](https://www.chenliu1996.com/)
 - [My Github profile](https://github.com/chenLiu-1996/)
 - [My Resume (Jun 2024)](https://chenliu-1996.github.io/CV/ChenLiu_resume.pdf)
 
