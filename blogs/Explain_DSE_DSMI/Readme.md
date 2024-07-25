@@ -4,7 +4,7 @@
 This is a casual explanation of our paper that introduced the concept of Diffusion Spectral Entropy (DSE) and Diffusion Spectral Mutual Information (DSMI).
 
 ### Full Blog Page
-Please find the blog page, compiled in format of a paper, [here](https://www.chenliu1996.com/publication/2024_explain_dse_dsmi/main.pdf).
+Please find the blog page, compiled in format of a paper, [here](https://chenliu-1996.github.io/blogs/Explain_DSE_DSMI/main.pdf).
 
 
 ### Citation
