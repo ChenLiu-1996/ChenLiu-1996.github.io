@@ -3,21 +3,51 @@
 
    <url>
       <loc>https://chenliu-1996.github.io/</loc>
+      <priority>1.00</priority>
+   </url>
+   <url>
+      <loc>https://chenliu-1996.github.io/blogs/</loc>
+      <priority>1.00</priority>
+   </url>
+   <url>
+      <loc>https://chenliu-1996.github.io/blogs/Explain_DSE_DSMI/</loc>
+      <priority>1.00</priority>
    </url>
    <url>
       <loc>https://chenliu-1996.github.io/blogs/Explain_DSE_DSMI/main.pdf</loc>
+      <priority>1.00</priority>
+   </url>
+   <url>
+      <loc>https://chenliu-1996.github.io/blogs/ExplainDragGAN/</loc>
+      <priority>1.00</priority>
    </url>
    <url>
       <loc>https://chenliu-1996.github.io/blogs/ExplainDragGAN/main.pdf</loc>
+      <priority>1.00</priority>
+   </url>
+   <url>
+      <loc>https://chenliu-1996.github.io/projects/</loc>
+      <priority>1.00</priority>
+   </url>
+   <url>
+      <loc>https://chenliu-1996.github.io/projects/CellSegBenchmark/</loc>
+      <priority>1.00</priority>
    </url>
    <url>
       <loc>https://chenliu-1996.github.io/projects/CellSegBenchmark/main.pdf</loc>
+      <priority>1.00</priority>
+   </url>
+   <url>
+      <loc>https://chenliu-1996.github.io/projects/ImageFlowNet/</loc>
+      <priority>1.00</priority>
    </url>
    <url>
       <loc>https://chenliu-1996.github.io/projects/ImageFlowNet/main.pdf</loc>
+      <priority>1.00</priority>
    </url>
    <url>
       <loc>https://chenliu-1996.github.io/projects/ImageFlowNet/supp.pdf</loc>
+      <priority>1.00</priority>
    </url>
 
 </urlset>
