@@ -22,13 +22,13 @@ repository               : "ChenLiu-1996/ChenLiu-1996.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "PhD Student in Computer Science"
+  name             : "CS PhD Student"
   pronouns         : # example: "she/her"
-  bio              : "chen DOT liu DOT cl2482 AT yale DOT edu"
-  location         : "Mountain View, CA and New Haven, CT"
+  bio              : "Spatial-Temporal Modeling"
+  location         : "New Haven, CT"
   employer         : "Yale University"
   uri              : # URL
-  email            : "none@example.org"
+  email            : "chen.liu.cl2482@yale.edu"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
